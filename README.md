@@ -5,7 +5,7 @@
 Video Explicativo:
 Predicción de Anemia--Python
 
-https://youtu.be/1rvoFp3m7OU
+https://www.youtube.com/watch?v=PscUQtIYlfI
 
 
 El objetivo de nuestro proyecto es predecir la anemia en base a los atributos genero, hemoglobina, MCHC,MCUV, MCH, resultados.
